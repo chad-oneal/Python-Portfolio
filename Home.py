@@ -42,7 +42,7 @@ df = pd.read_csv('data.csv', sep=';')
 
 standard_size = (550, 300)  # Define a standard size for all images
 
-col3, _, col4 = st.columns([1.5, 0.3, 1.5])  # Unseen column for spacing
+col3, _, col4 = st.columns([1.3, 0.3, 1.55])  # Unseen column for spacing
 
 with col3:
     for index, row in df[:10].iterrows():
