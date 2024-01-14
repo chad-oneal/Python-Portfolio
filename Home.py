@@ -22,12 +22,18 @@ with col2:
     functions.add_space(3)
     st.title('Chad ONeal')
     content = """
-    At present, I hold a role as a Software Quality
-    Assurance Engineer in the dynamic and innovative development
-    team at RegScale. In this capacity, I am fully committed to
-    providing robust support to our Senior Developers, assisting
-    them with their various requirements and ensuring the smooth
-    execution of our collaborative projects.
+    As a dedicated Software Quality Assurance Engineer at RegScale,
+    my primary focus is on manual testing and the meticulous development
+    of comprehensive test cases. I take pride in my contribution to the
+    software testing process, having crafted over 1000 test cases to date,
+    all systematically documented in TestRail.
+
+    Beyond manual testing, my role involves a collaborative effort with
+    our Principal SDET and Senior SDET, where I am gaining valuable 
+    experience in automated testing. Utilizing Python, I assist in the
+    testing of both the RegScale web application and its APIs, a task that
+    not only bolsters our product reliability but also enables me to
+    expand my technical acumen in software testing.
     """
     st.info(content)
 
