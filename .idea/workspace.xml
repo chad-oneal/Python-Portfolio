@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0212897d-58d0-4f7f-9b58-8d38cec6b939" name="Changes" comment="upgraded interpreter">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Home.py" beforeDir="false" afterPath="$PROJECT_DIR$/Home.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data.csv" afterDir="false" />
-    </list>
+    <list default="true" id="0212897d-58d0-4f7f-9b58-8d38cec6b939" name="Changes" comment="added sports news pic" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -127,6 +123,7 @@
       <workItem from="1705177001163" duration="844000" />
       <workItem from="1705248714836" duration="445000" />
       <workItem from="1705252577254" duration="178000" />
+      <workItem from="1705257360831" duration="1359000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Build">
       <option name="closed" value="true" />
@@ -208,7 +205,71 @@
       <option name="project" value="LOCAL" />
       <updated>1705177091750</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="added new about me">
+      <option name="closed" value="true" />
+      <created>1705257382965</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1705257382965</updated>
+    </task>
+    <task id="LOCAL-00012" summary="added new about me">
+      <option name="closed" value="true" />
+      <created>1705257858025</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1705257858025</updated>
+    </task>
+    <task id="LOCAL-00013" summary="added sports news pic">
+      <option name="closed" value="true" />
+      <created>1705258164923</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1705258164923</updated>
+    </task>
+    <task id="LOCAL-00014" summary="added sports news pic">
+      <option name="closed" value="true" />
+      <created>1705258296845</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1705258296845</updated>
+    </task>
+    <task id="LOCAL-00015" summary="added sports news pic">
+      <option name="closed" value="true" />
+      <created>1705258350356</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1705258350356</updated>
+    </task>
+    <task id="LOCAL-00016" summary="added sports news pic">
+      <option name="closed" value="true" />
+      <created>1705258463571</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1705258463571</updated>
+    </task>
+    <task id="LOCAL-00017" summary="added sports news pic">
+      <option name="closed" value="true" />
+      <created>1705258560897</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1705258560897</updated>
+    </task>
+    <task id="LOCAL-00018" summary="added sports news pic">
+      <option name="closed" value="true" />
+      <created>1705258631878</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1705258631878</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -237,7 +298,9 @@
     <MESSAGE value="Added web functionality for emails to received" />
     <MESSAGE value="Added web functionality for emails to be received" />
     <MESSAGE value="upgraded interpreter" />
-    <option name="LAST_COMMIT_MESSAGE" value="upgraded interpreter" />
+    <MESSAGE value="added new about me" />
+    <MESSAGE value="added sports news pic" />
+    <option name="LAST_COMMIT_MESSAGE" value="added sports news pic" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Python_Portfolio$send_email.coverage" NAME="send_email Coverage Results" MODIFIED="1701814218686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
